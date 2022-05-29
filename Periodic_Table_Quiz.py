@@ -1,7 +1,6 @@
 import random
 print("Do you know the Periodic Table of Elements? \nLet's find out!")
 # Possible elements code randomly guesses
-# test 
 symbols = ["H",
            "He",
            "Li",
